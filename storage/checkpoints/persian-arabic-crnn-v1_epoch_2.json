@@ -1,0 +1,14 @@
+{
+  "checkpoint_file": "persian-arabic-crnn-v1_epoch_2.pt",
+  "vocabulary_size": 101,
+  "epoch": 2,
+  "metrics": {
+    "train_loss": 7.8483991622924805,
+    "val_loss": 4.706662654876709,
+    "val_cer": 1.0,
+    "epoch_duration_s": 1.609435796737671
+  },
+  "config": {
+    "img_height": 64
+  }
+}

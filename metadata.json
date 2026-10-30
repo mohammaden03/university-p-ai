@@ -1,0 +1,6 @@
+{
+  "name": "Persian & Arabic Manuscript HTR/OCR AI Service",
+  "description": "Intelligent HTR/OCR system for recognition, reading, evaluation, and search in historical Persian and Arabic manuscripts with Islamic calligraphy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

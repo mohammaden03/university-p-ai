@@ -1,0 +1,14 @@
+{
+  "checkpoint_file": "test-persian-crnn_best.pt",
+  "vocabulary_size": 101,
+  "epoch": 1,
+  "metrics": {
+    "train_loss": 14.322538693745932,
+    "val_loss": 13.795215606689453,
+    "val_cer": 1.0,
+    "epoch_duration_s": 2.522524833679199
+  },
+  "config": {
+    "img_height": 64
+  }
+}
